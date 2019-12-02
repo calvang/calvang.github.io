@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site Layout Completed and CV Uploaded"
-date: 2019-11-12
+date: 2019-12-02
 ---
 # Site Layout Completed and CV Uploaded!
 ## Updates
