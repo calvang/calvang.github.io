@@ -3,7 +3,6 @@ layout: post
 title: "Site Layout Completed and CV Uploaded"
 date: 2019-12-02
 ---
-# Site Layout Completed and CV Uploaded!
 ## Updates
 - About and blog links are functional
 - CV has been uploaded as a pdf and should work in desktop browsers
