@@ -7,3 +7,9 @@ title: Calvin Huang, Computer Science Engineer
 	<p>I am a sophomore studying Computer Science at the University of Michigan. </p>
 	<p><a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
+
+<ul class="posts">
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+</ul>
