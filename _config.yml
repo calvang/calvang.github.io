@@ -2,4 +2,4 @@ name: Calvin Huang
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
