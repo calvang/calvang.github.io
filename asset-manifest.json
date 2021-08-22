@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.80d1f151.chunk.css",
-    "main.js": "/static/js/main.e690d909.chunk.js",
-    "main.js.map": "/static/js/main.e690d909.chunk.js.map",
+    "main.css": "/static/css/main.a8f6f87c.chunk.css",
+    "main.js": "/static/js/main.b186d4f3.chunk.js",
+    "main.js.map": "/static/js/main.b186d4f3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cba6eaf0.js",
     "runtime-main.js.map": "/static/js/runtime-main.cba6eaf0.js.map",
     "static/js/2.6db362c1.chunk.js": "/static/js/2.6db362c1.chunk.js",
     "static/js/2.6db362c1.chunk.js.map": "/static/js/2.6db362c1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f46595dcf640b5e3ed6158bcbb9f7b2f.js": "/precache-manifest.f46595dcf640b5e3ed6158bcbb9f7b2f.js",
+    "precache-manifest.683981e4f5ac2d33ab453cd0248c032d.js": "/precache-manifest.683981e4f5ac2d33ab453cd0248c032d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.80d1f151.chunk.css.map": "/static/css/main.80d1f151.chunk.css.map",
+    "static/css/main.a8f6f87c.chunk.css.map": "/static/css/main.a8f6f87c.chunk.css.map",
     "static/js/2.6db362c1.chunk.js.LICENSE.txt": "/static/js/2.6db362c1.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/static/media/neonMetal.62e31a67.webp",
     "static/media/Projects.css": "/static/media/metalWaves.32cfc0cd.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.cba6eaf0.js",
     "static/js/2.6db362c1.chunk.js",
-    "static/css/main.80d1f151.chunk.css",
-    "static/js/main.e690d909.chunk.js"
+    "static/css/main.a8f6f87c.chunk.css",
+    "static/js/main.b186d4f3.chunk.js"
   ]
 }
